@@ -1,0 +1,25 @@
+{
+  "name": "ai-datapulse",
+  "version": "1.0.0",
+  "description": "基于 OpenClaw 的 O2O 业务异动诊断 Agent",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js",
+    "analyze": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai-agent",
+    "mcp",
+    "data-analysis",
+    "openai",
+    "feishu"
+  ],
+  "author": "YangTianjun",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "openai": "^4.29.2"
+  }
+}

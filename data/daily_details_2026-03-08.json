@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-08",
+  "weather": "晴",
+  "summary": {
+    "gmv": 245000,
+    "orders": 3500,
+    "active_users": 22800,
+    "delivery_on_time": 88.5,
+    "cancel_rate": 4.5,
+    "rider_accept_time": 130,
+    "ad_roi": 2.2
+  },
+  "hourly_trend": [
+    { "hour": "10:00", "orders": 150, "cancel_rate": 1.2, "accept_time": 45 },
+    { "hour": "11:00", "orders": 380, "cancel_rate": 3.5, "accept_time": 90 },
+    { "hour": "12:00", "orders": 520, "cancel_rate": 6.8, "accept_time": 180 },
+    { "hour": "13:00", "orders": 450, "cancel_rate": 5.2, "accept_time": 140 },
+    { "hour": "14:00", "orders": 200, "cancel_rate": 1.5, "accept_time": 50 },
+    { "hour": "15:00", "orders": 180, "cancel_rate": 1.1, "accept_time": 45 },
+    { "hour": "16:00", "orders": 220, "cancel_rate": 1.3, "accept_time": 48 },
+    { "hour": "17:00", "orders": 350, "cancel_rate": 2.8, "accept_time": 80 },
+    { "hour": "18:00", "orders": 600, "cancel_rate": 8.5, "accept_time": 240 },
+    { "hour": "19:00", "orders": 550, "cancel_rate": 7.2, "accept_time": 200 },
+    { "hour": "20:00", "orders": 400, "cancel_rate": 4.5, "accept_time": 120 },
+    { "hour": "21:00", "orders": 250, "cancel_rate": 2.1, "accept_time": 60 }
+  ],
+  "region_performance": [
+    { "name": "亚龙湾/海棠湾", "gmv": 85000, "orders": 400, "growth_rate": 45.0, "cancel_rate": 2.5, "note": "高客单价，游客礼品需求旺盛" },
+    { "name": "三亚湾/大东海", "gmv": 90000, "orders": 1500, "growth_rate": 30.0, "cancel_rate": 6.8, "note": "订单密度过高，运力严重不足" },
+    { "name": "市区（吉阳/天涯）", "gmv": 70000, "orders": 1600, "growth_rate": 15.0, "cancel_rate": 3.2, "note": "表现平稳" }
+  ],
+  "top_selling_categories": [
+    { "category": "鲜花绿植", "sales_volume": 850, "growth_rate": 520.0, "stock_status": "缺货预警" },
+    { "category": "蛋糕甜点", "sales_volume": 600, "growth_rate": 180.0, "stock_status": "正常" },
+    { "category": "美妆护肤", "sales_volume": 450, "growth_rate": 120.0, "stock_status": "正常" },
+    { "category": "餐饮外卖", "sales_volume": 1600, "growth_rate": 10.0, "stock_status": "正常" }
+  ]
+}
