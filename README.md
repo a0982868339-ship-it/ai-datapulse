@@ -13,7 +13,7 @@ AI DataPulse 是一个**自主式数据分析 Agent**，专为解决 O2O 业务�
 
 ## 📺 演示视频 (Demo)
 
-> [点击查看 演示录屏]![三亚O2O数据分析agent演示](https://github.com/user-attachments/assets/cc26c88d-7efa-4cb1-8381-71997f9065aa)
+> [点击查看 演示录屏]![三亚O2O数据分析agent演示](https://github.com/user-attachments/assets/7435bed7-f65a-49b2-9983-278f774982bd)
 
 
 ---
